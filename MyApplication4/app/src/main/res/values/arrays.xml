@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrUser">
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+        <item>田七</item>
+        <item>王八</item>
+        <item>龙九</item>
+        <item>绅十</item>
+        <item>百</item>
+        <item>千</item>
+        <item>万</item>
+        <item>魔</item>
+    </string-array>
+
+</resources>
